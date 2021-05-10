@@ -1,12 +1,13 @@
 # macpaw-test-task
-Test task for MacPaw summer internship.
+**Test task for MacPaw summer internship.**
 
-For this test task you need to build a model for predicting real estate prices. You may use any libraries and models (except auto ml and deep learning approaches). Description of fields are in data_description.txt file.
+For this test task you need to build a model for predicting real estate prices. 
+You may use any libraries and models (except auto ml and deep learning approaches). Description of fields are in data_description.txt file.
 Your aim is to demonstrate skills in data processing and writing of a correct, understandable code. You don’t have to be as precise as possible in your predictions.
 
 
 
-Mandatory steps:
+**Mandatory steps:**
 
 Create a Jupyter notebook file to carry out all the further actions.
 
@@ -22,8 +23,7 @@ Using the model, make predictions from data with test.csv. Save the result to a 
 
 
 
-
-Optional steps:
+**Optional steps:**
 
 Conduct basic EDA data. Describe the main features that you should pay attention to
 
