@@ -16,6 +16,7 @@ Using the model, make predictions from data with test.csv. Save the result to a 
 
 
 Optional steps:
+
 Conduct basic EDA data. Describe the main features that you should pay attention to
 Conduct feature engineering, describe the characteristics obtained and the arguments for their use
 Conduct feature selection
